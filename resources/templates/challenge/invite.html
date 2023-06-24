@@ -1,0 +1,13 @@
+<!doctype html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head></head>
+
+<body>
+<form class="form-signin" th:action="@{/challenge/invite}" method="post">
+
+    <h1 class="h3 mb-3 font-weight-normal">Invite</h1>
+
+    <input type="text" id="email" name="email" class="form-control" placeholder="email" required>
+    <button class="btn btn-lg btn-primary btn-block" type="submit">send</button>
+</form>
+</body>
