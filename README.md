@@ -7,3 +7,16 @@
 
 
 ## 
+![image1](https://github.com/vvans/Reward_Challenge/assets/83702560/ad1a4c35-c43b-454c-a4de-29b1a7c9c1a2)
+
+![image2](https://github.com/vvans/Reward_Challenge/assets/83702560/4609c5e8-fbbc-4f11-b83a-3c8e4425d7f5)
+
+![image3](https://github.com/vvans/Reward_Challenge/assets/83702560/05418d22-9952-415f-8775-4fdb543b74ac)
+
+![image4](https://github.com/vvans/Reward_Challenge/assets/83702560/ac00c9f4-88cb-40dd-8634-f02d7e2bb33e)
+
+![image5](https://github.com/vvans/Reward_Challenge/assets/83702560/397a117b-dd87-4304-a7a3-75067b00699b)
+
+![image6](https://github.com/vvans/Reward_Challenge/assets/83702560/48cf8974-8ab4-4995-aa07-3a44ead09a9c)
+
+
