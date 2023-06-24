@@ -10,7 +10,7 @@
 
 
 ## 서비스 설명
-[발표 자료](https://drive.google.com/file/d/1t4plhxjEgSPYk0LJnbnYwI96D34sp-Ak/view?usp=sharing)<br>
+[발표 자료](https://drive.google.com/file/d/1t4plhxjEgSPYk0LJnbnYwI96D34sp-Ak/view?usp=sharing)<br><br>
 [발표 영상](https://www.youtube.com/watch?v=4oySgUShTkQ)
 
 ## 기대효과
